@@ -21,14 +21,15 @@ Program Java sederhana untuk menentukan **Grade mahasiswa** berdasarkan nilai uj
    java Grade
 
 4. Contoh output :
+   ```bash
    Masukkan nilai anda:
-   85
+   8
    Apakah mahasiswa hadir? Ya/Tidak
    Ya
    Nilai anda adalah : 85
    Status kehadiran anda : Hadir
    Grade anda adalah : B+
    Status kelulusan anda : Lulus
-Status kehadiran anda : Hadir
-Grade anda adalah : B+
-Status kelulusan anda : Lulus
+   Status kehadiran anda : Hadir
+   Grade anda adalah : B+
+   Status kelulusan anda : Lulus
