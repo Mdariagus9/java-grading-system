@@ -23,12 +23,12 @@ Program Java sederhana untuk menentukan **Grade mahasiswa** berdasarkan nilai uj
 4. Contoh output :
    Masukkan nilai anda:
    85
-  Apakah mahasiswa hadir? Ya/Tidak
-  Ya
-  Nilai anda adalah : 85
-  Status kehadiran anda : Hadir
-  Grade anda adalah : B+
-  Status kelulusan anda : Lulus
+   Apakah mahasiswa hadir? Ya/Tidak
+   Ya
+   Nilai anda adalah : 85
+   Status kehadiran anda : Hadir
+   Grade anda adalah : B+
+   Status kelulusan anda : Lulus
 Status kehadiran anda : Hadir
 Grade anda adalah : B+
 Status kelulusan anda : Lulus
